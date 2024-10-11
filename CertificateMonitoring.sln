@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CertificateMonitoring", "CertificateMonitoring\CertificateMonitoring.pyproj", "{6F435B78-B48A-4E66-99BA-A07A0F34EB41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F435B78-B48A-4E66-99BA-A07A0F34EB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F435B78-B48A-4E66-99BA-A07A0F34EB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D007901-DD33-45C3-BA19-A068BC0587B3}
+	EndGlobalSection
+EndGlobal
